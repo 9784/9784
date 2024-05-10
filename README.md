@@ -23,10 +23,7 @@ You can reach out to me on LinkedIn.
 
 ## ⚡ Fun fact
 
-(Add a fun fact about yourself here)
-
-
-- I love to [add a fun fact about yourself]
+- I love to travel and mathematics.
 
 Thank you for visiting my profile. Feel free to fork or star my repositories!
 
