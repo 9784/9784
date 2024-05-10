@@ -1,5 +1,4 @@
-### Hi there 👋 , I am 9784
-# Hello, I'm [Your Name] 👋
+# Hi, I'm 9784 👋
 
 I'm a Cloud and Infrastructure Engineer with experience in managing and supporting hybrid environments. 
 I have worked extensively with VMware virtualized infrastructure deployed in IBM Cloud.
@@ -13,11 +12,11 @@ I have worked extensively with VMware virtualized infrastructure deployed in IBM
 
 ## 💼 Technical Skills
 
-- **Cloud Platforms**: IBM Cloud, Azure
-- **Infrastructure as Code**: Terraform, Bicep
-- **Containerization**: Kubernetes
 - **Virtualization**: VMware
-
+- **Cloud Platforms**: IBM Cloud, Azure
+- **Containerization**: Kubernetes
+- **Infrastructure as Code**: Terraform, Bicep
+ 
 ## 📫 How to reach me
 
 You can reach out to me on LinkedIn.
