@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 , I am 9784
 
 <!--
 **9784/9784** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi,
 
 - 🔭 I’m currently working on ... VMware Infrastructure and Windows OS Administration
 - 🌱 I’m currently learning ... Azure Cloud, Kubernetes
