@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on ... VMware Infrastructure and Windows OS Administration
-- 🌱 I’m currently learning ... Azure Cloud, Kubernetes
+- 🔭 I’m currently working on ... VMware Infrastructure and Windows OS Administration.
+- 🌱 I’m currently learning ... Azure Cloud, Bicep, Kubernetes, Terraform, Azure AI.
 - 👯 I’m looking to collaborate on ... powershell scripts
 - 🤔 I’m looking for help with ... Ansible
 - 💬 Ask me about ...
