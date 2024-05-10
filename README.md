@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi,
+
+- 🔭 I’m currently working on ... VMware Infrastructure and Windows OS Administration
+- 🌱 I’m currently learning ... Azure Cloud, Kubernetes
+- 👯 I’m looking to collaborate on ... powershell scripts
+- 🤔 I’m looking for help with ... Ansible
+- 💬 Ask me about ...
+- 📫 How to reach me: ... email@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: coolcoolcoolcoolcool
