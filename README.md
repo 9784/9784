@@ -1,43 +1,31 @@
 ### Hi there 👋 , I am 9784
-
-<!--
-**9784/9784** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... VMware Infrastructure and Windows OS Administration.
-- 🌱 I’m currently learning ... Azure Cloud, Bicep, Kubernetes, Terraform, Azure AI.
-- 👯 I’m looking to collaborate on ... powershell scripts
-- 🤔 I’m looking for help with ... Ansible
-- 💬 Ask me about ...
-- 📫 How to reach me: ... email@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: coolcoolcoolcoolcool
--->
-
-
-
-
 # Hello, I'm [Your Name] 👋
 
-I'm a technology enthusiast with a passion for cloud computing and containerization. I have professional experience working with VMware and am currently learning Azure and Kubernetes.
-
-## 🛠 Skills
-
-- **Cloud Computing**: VMware, Azure (in progress)
-- **Containerization**: Kubernetes (in progress)
+I'm a Cloud and Infrastructure Engineer with experience in managing and supporting hybrid environments. 
+I have worked extensively with VMware virtualized infrastructure deployed in IBM Cloud.
 
 ## 🌱 I'm currently learning
 
-- Deepening my knowledge of Azure
-- Exploring Kubernetes
+- Azure
+- Kubernetes
+- Bicep
+- Terraform
+
+## 💼 Technical Skills
+
+- **Cloud Platforms**: IBM Cloud, Azure
+- **Infrastructure as Code**: Terraform, Bicep
+- **Containerization**: Kubernetes
+- **Virtualization**: VMware
 
 ## 📫 How to reach me
 
-- Connect with me on LinkedIn
-- Email me at your-email@example.com
+You can reach out to me on LinkedIn.
 
 ## ⚡ Fun fact
+
+(Add a fun fact about yourself here)
+
 
 - I love to [add a fun fact about yourself]
 
